@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1507249451 source:d:\examen spineti\primer_parcial_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"validar.h"
+	"Contratacion.h"
+
+1507249502 source:d:\examen spineti\primer_parcial_laboratorio\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"validar.h"
+
+1507247567 d:\examen spineti\primer_parcial_laboratorio\pantalla.h
+
+1507248323 d:\examen spineti\primer_parcial_laboratorio\validar.h
+
+1507249939 source:d:\examen spineti\primer_parcial_laboratorio\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507250256 source:d:\examen spineti\primer_parcial_laboratorio\contratacion.c
+
+1507248884 d:\examen spineti\primer_parcial_laboratorio\contratacion.h
+
